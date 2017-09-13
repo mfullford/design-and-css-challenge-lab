@@ -111,6 +111,7 @@ h4 {
     margin-top: 40px;
     position: center;
     font-weight: bold;
+    border-radius: 5px;
 }
 
 .benefits {
@@ -197,6 +198,7 @@ footer {
     display: block;
     position: relative;
     webkit-box-sizing: border-box;
+    border-radius: 5px;
 }
 .social-media {
   background-color: #121212;
